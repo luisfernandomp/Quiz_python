@@ -11,8 +11,7 @@ jogadorService = jogador.JogadorService()
 
 clear = lambda: os.system('cls')
 modo = [1, 2] if quizService.obterModoJogo() == "2" else [1] 
-
-dados = arquivoService.lerArquivo("./configurations/perguntas.json")
+dados = arquivoService.lerArquivoJson("./configurations/perguntas.json")
 perguntas = perguntaService.converterJsonToPergunta(dados)
 
 jogadores = []
@@ -24,16 +23,22 @@ for n in modo:
 for jogador in jogadores:
     print(f"Jogador {jogador.getNome()}");
 
-    for pergunta in jogador.getPerguntas():
-        #clear()
+    perguntas = jogador.getPerguntas()
+    for pergunta in perguntas:
+        clear()
+
         print(pergunta.getPergunta())
         for alternativa in pergunta.getAlternativas():
             print(alternativa)
         
-        resposta = input("Resposta: ");    
-        if(resposta == pergunta.getGabarito()):
-            jogador.setPontuacao(jogador.getPontuacao() + 1)
+        resposta = input("Resposta: ").upper()
+        pergunta.setRespostaJogador(resposta)
+
+        gabarito = pergunta.getGabarito().upper()
+        if(resposta == gabarito):
+            pergunta.setAcertou(True)
 
     print(jogador.getPontuacao())
+        
+    arquivoService.criarHtmlPontuacaoIndividual(jogador.getNome(), jogador.getPontuacao(), perguntas)
 
-            

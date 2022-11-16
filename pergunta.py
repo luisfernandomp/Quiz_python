@@ -20,16 +20,14 @@ class PerguntaService:
         numerosEscolhidos = []
 
         while len(perguntasAleatorias) < 10:
-            num = random.randint(1, 30)
-            if(num in numerosEscolhidos ):
+            num = random.randint(1, len(perguntas) - 1)
+            if(num not in numerosEscolhidos ):
                 perguntasAleatorias.append(perguntas[num])
             numerosEscolhidos.append(num)
 
         return perguntasAleatorias
 
 class PerguntaModel:
-    def __init__(self):
-        pass
 
     def __init__(self, pergunta, alternativas, gabarito, dificuldade, explicacao):
         self.pergunta = pergunta
@@ -52,7 +50,7 @@ class PerguntaModel:
     def setDificuldade(self, dificuldade):
         self.dificuldade = dificuldade
 
-    def setExplicaco(self, explicaco):
+    def setExplicacao(self, explicaco):
         self.explicacao = explicaco
 
     def setRespostaJogador(self, respostaJogador):
@@ -73,7 +71,7 @@ class PerguntaModel:
     def getDificuldade(self):
         return self.dificuldade
 
-    def getExplicaco(self):
+    def getExplicacao(self):
         return self.explicacao
     
     def getRespostaJogador(self):
