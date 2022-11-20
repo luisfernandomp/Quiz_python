@@ -19,10 +19,38 @@ class PerguntaService:
         perguntasAleatorias = []
         numerosEscolhidos = []
 
-        while len(perguntasAleatorias) < 10:
-            num = random.randint(1, len(perguntas) - 1)
+        perguntasFaceis = []
+        perguntasMedias = []
+        perguntasDificeis = []
+
+        for pergunta in perguntas:
+            nivelDificuldade = pergunta.getDificuldade()
+
+            if(nivelDificuldade == 1):
+                perguntasFaceis.append(pergunta)
+            elif(nivelDificuldade == 2):
+                perguntasMedias.append(pergunta)
+            else:
+                perguntasDificeis.append(pergunta)
+
+        while len(perguntasAleatorias) < 4:
+            num = random.randint(0, len(perguntasFaceis) - 1)
             if(num not in numerosEscolhidos ):
-                perguntasAleatorias.append(perguntas[num])
+                perguntasAleatorias.append(perguntasFaceis[num])
+            numerosEscolhidos.append(num)
+
+        numerosEscolhidos = []
+        while len(perguntasAleatorias) < 8:
+            num = random.randint(0, len(perguntasMedias) - 1)
+            if(num not in numerosEscolhidos ):
+                perguntasAleatorias.append(perguntasMedias[num])
+            numerosEscolhidos.append(num)
+        
+        numerosEscolhidos = []
+        while len(perguntasAleatorias) < 10:
+            num = random.randint(0, len(perguntasDificeis) - 1)
+            if(num not in numerosEscolhidos ):
+                perguntasAleatorias.append(perguntasDificeis[num])
             numerosEscolhidos.append(num)
 
         return perguntasAleatorias

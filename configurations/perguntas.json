@@ -144,7 +144,20 @@
     },
     {
         "pergunta": "Teste teste teste?",
-        "nivelDeDificuldade": 1,
+        "nivelDeDificuldade": 2,
+        "gabarito": "A",
+        "explicacao": "Teste",
+        "alternativas" :[
+            "A) Teste teste teste",
+            "B) Teste teste teste",
+            "C) Teste teste teste",
+            "D) Teste teste teste",
+            "E) Teste teste teste"
+        ]
+    },
+    {
+        "pergunta": "Teste teste teste?",
+        "nivelDeDificuldade": 2,
         "gabarito": "A",
         "explicacao": "Teste",
         "alternativas" :[
@@ -378,7 +391,7 @@
     },
     {
         "pergunta": "Teste teste teste?",
-        "nivelDeDificuldade": 1,
+        "nivelDeDificuldade": 3,
         "gabarito": "A",
         "explicacao": "Teste",
         "alternativas" :[
@@ -404,7 +417,20 @@
     },
     {
         "pergunta": "Teste teste teste?",
-        "nivelDeDificuldade": 1,
+        "nivelDeDificuldade": 2,
+        "gabarito": "A",
+        "explicacao": "Teste",
+        "alternativas" :[
+            "A) Teste teste teste",
+            "B) Teste teste teste",
+            "C) Teste teste teste",
+            "D) Teste teste teste",
+            "E) Teste teste teste"
+        ]
+    },
+    {
+        "pergunta": "Teste teste teste?",
+        "nivelDeDificuldade": 2,
         "gabarito": "A",
         "explicacao": "Teste",
         "alternativas" :[
@@ -430,7 +456,20 @@
     },
     {
         "pergunta": "Teste teste teste?",
-        "nivelDeDificuldade": 1,
+        "nivelDeDificuldade": 3,
+        "gabarito": "A",
+        "explicacao": "Teste",
+        "alternativas" :[
+            "A) Teste teste teste",
+            "B) Teste teste teste",
+            "C) Teste teste teste",
+            "D) Teste teste teste",
+            "E) Teste teste teste"
+        ]
+    },
+    {
+        "pergunta": "Teste teste teste?",
+        "nivelDeDificuldade": 3,
         "gabarito": "A",
         "explicacao": "Teste",
         "alternativas" :[
@@ -456,7 +495,7 @@
     },
     {
         "pergunta": "Teste teste teste?",
-        "nivelDeDificuldade": 1,
+        "nivelDeDificuldade": 2,
         "gabarito": "A",
         "explicacao": "Teste",
         "alternativas" :[
@@ -469,46 +508,7 @@
     },
     {
         "pergunta": "Teste teste teste?",
-        "nivelDeDificuldade": 1,
-        "gabarito": "A",
-        "explicacao": "Teste",
-        "alternativas" :[
-            "A) Teste teste teste",
-            "B) Teste teste teste",
-            "C) Teste teste teste",
-            "D) Teste teste teste",
-            "E) Teste teste teste"
-        ]
-    },
-    {
-        "pergunta": "Teste teste teste?",
-        "nivelDeDificuldade": 1,
-        "gabarito": "A",
-        "explicacao": "Teste",
-        "alternativas" :[
-            "A) Teste teste teste",
-            "B) Teste teste teste",
-            "C) Teste teste teste",
-            "D) Teste teste teste",
-            "E) Teste teste teste"
-        ]
-    },
-    {
-        "pergunta": "Teste teste teste?",
-        "nivelDeDificuldade": 1,
-        "gabarito": "A",
-        "explicacao": "Teste",
-        "alternativas" :[
-            "A) Teste teste teste",
-            "B) Teste teste teste",
-            "C) Teste teste teste",
-            "D) Teste teste teste",
-            "E) Teste teste teste"
-        ]
-    },
-    {
-        "pergunta": "Teste teste teste?",
-        "nivelDeDificuldade": 1,
+        "nivelDeDificuldade": 2,
         "gabarito": "A",
         "explicacao": "Teste",
         "alternativas" :[

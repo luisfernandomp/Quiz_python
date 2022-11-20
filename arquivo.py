@@ -2,7 +2,9 @@ from datetime import datetime
 import json
 import uuid
 import webbrowser 
-import os 
+import os
+
+from jogador import JogadorModel 
 
 class ArquivoService:
     def lerArquivoJson(self, nomeArquivo):
@@ -31,14 +33,22 @@ class ArquivoService:
         guid = str(uuid.uuid1())
         return str(str(data) + guid + ".html")
 
-    def criarHtmlPontuacaoIndividual(self, nomeJogador, pontuacao, perguntas):
+    def criarHtmlPontuacaoIndividual(self, jogador):
+        perguntas = jogador.getPerguntas()
+
         html = self.lerArquivo("./templates/individual.html")
 
-        html = html.replace("#NOME_JOGADOR#", nomeJogador)     
-        html = html.replace("#PORCENTAGEM#", "20%")
-        html = html.replace("#PONTUACAO#", str(pontuacao))
+        html = html.replace("#NOME_JOGADOR#", jogador.getNome())     
+        html = html.replace("#PONTUACAO#", str(jogador.getPontuacao()))
+
+        porcentagem = round(((jogador.getAcertos() * 100)/10),0) 
+
+        html = html.replace("#PORCENTAGEM#", str(porcentagem) + '%')
+
+        (medalha, classificacao) = jogador.obterMedalha()
+        html = html.replace("#IMAGE#", medalha)
+        html = html.replace('#CLASSIFICACAO#', classificacao)
         
-    
         nomeArquivo = self.nomeArquivo()
         arquivo = open(nomeArquivo, "a")
 
@@ -48,11 +58,51 @@ class ArquivoService:
 
         filename = 'file:///'+os.getcwd()+'/' + nomeArquivo
         webbrowser.open_new_tab(filename)
+        
 
+    def criarHtmlPontuacaoMultiplayer(self, jogadores):
+        jogador1 = JogadorModel
+        jogador2 = JogadorModel
 
-    def criarHtmlPontuacaoMultiplayer(nomeJogador, pontuacao):
-        pass
+        if(jogadores[0].getPontuacao() > jogadores[1].getPontuacao()):
+            jogador1 = jogadores[0]
+            jogador2 = jogadores[1]
+        else:
+            jogador1 = jogadores[1]
+            jogador2 = jogadores[0]
 
+        html = self.lerArquivo("./templates/multiplayer.html")
+        if(jogador1.getPontuacao() > jogador2.getPontuacao()):
+            html = html.replace("#NOME_JOGADOR_VENCEDOR#", jogador1.getNome())
+        else:
+            html = html.replace("#NOME_JOGADOR_VENCEDOR#", jogador2.getNome())
+            
+
+        html = html.replace("#NOME_JOGADOR_1#", jogador1.getNome())
+
+        (medalha, classificacao) = jogador1.obterMedalha()
+
+        html = html.replace("#CLASSIFICACAO_JOGADOR_1#", classificacao)
+        html = html.replace("#PONTUACAO_JOGADOR_1#", str(jogador1.getPontuacao()))
+        html = html.replace("#IMAGEM_JOGADOR_1#", medalha)
+        
+        
+        html = html.replace("#NOME_JOGADOR_2#", jogador2.getNome())
+
+        (medalha, classificacao) = jogador2.obterMedalha()
+
+        html = html.replace("#CLASSIFICACAO_JOGADOR_2#", classificacao)
+        html = html.replace("#PONTUACAO_JOGADOR_2#", str(jogador2.getPontuacao()))
+        html = html.replace("#IMAGEM_JOGADOR_2#", medalha)
+        
+        
+        nomeArquivo = self.nomeArquivo()
+        arquivo = open(nomeArquivo, "a")
+        arquivo.write(html)
+
+        filename = 'file:///'+os.getcwd()+'/' + nomeArquivo
+        webbrowser.open_new_tab(filename)
+        
     def criarTabelaJogador(self, perguntas):
         tabela = list() 
         tabela.append("<table class='table table-hover'>")

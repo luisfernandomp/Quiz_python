@@ -37,6 +37,18 @@ class JogadorModel:
     def getPerguntas(self):
         return self.perguntas
 
+    def obterMedalha(self):
+        ouro = "./templates/images/5a1cec84cd8428 1.png"
+        prata = "./templates/images/5a1cec84cd8428 3.png"
+        bronze = "./templates/images/5a1cec84cd8428 2.png"
+
+        if(self.getPontuacao() < 50):
+            return (bronze, 'Bronze')
+        elif (self.getPontuacao() >= 50 and self.getPontuacao() <= 75):
+            return (prata, 'Prata')
+        else :
+            return (ouro, 'Ouro')
+
 class JogadorService:
 
     def obterNomeDosJogadores(self, n, perguntas):
