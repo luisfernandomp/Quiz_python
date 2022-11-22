@@ -79,21 +79,17 @@ class ArquivoService:
             
 
         html = html.replace("#NOME_JOGADOR_1#", jogador1.getNome())
-
-        (medalha, classificacao) = jogador1.obterMedalha()
-
-        html = html.replace("#CLASSIFICACAO_JOGADOR_1#", classificacao)
+        
+        html = html.replace("#CLASSIFICACAO_JOGADOR_1#", "Ouro")
         html = html.replace("#PONTUACAO_JOGADOR_1#", str(jogador1.getPontuacao()))
-        html = html.replace("#IMAGEM_JOGADOR_1#", medalha)
+        html = html.replace("#IMAGEM_JOGADOR_1#", "./templates/images/5a1cec84cd8428 1.png")
         
         
         html = html.replace("#NOME_JOGADOR_2#", jogador2.getNome())
-
-        (medalha, classificacao) = jogador2.obterMedalha()
-
-        html = html.replace("#CLASSIFICACAO_JOGADOR_2#", classificacao)
+        
+        html = html.replace("#CLASSIFICACAO_JOGADOR_2#", "Prata")
         html = html.replace("#PONTUACAO_JOGADOR_2#", str(jogador2.getPontuacao()))
-        html = html.replace("#IMAGEM_JOGADOR_2#", medalha)
+        html = html.replace("#IMAGEM_JOGADOR_2#", "./templates/images/5a1cec84cd8428 3.png")
         
         
         nomeArquivo = self.nomeArquivo()
