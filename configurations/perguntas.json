@@ -1,522 +1,524 @@
 [
-    {
-        "pergunta": "Teste teste teste?",
-        "nivelDeDificuldade": 1,
-        "gabarito": "A",
-        "explicacao": "Explicacao teste",
-        "alternativas" :[
-            "A) Teste teste teste",
-            "B) Teste teste teste",
-            "C) Teste teste teste",
-            "D) Teste teste teste",
-            "E) Teste teste teste"
-        ]
-    },
-    {
-        "pergunta": "Teste teste teste?",
-        "nivelDeDificuldade": 1,
-        "gabarito": "A",
-        "explicacao": "Teste",
-        "alternativas" :[
-            "A) Teste teste teste",
-            "B) Teste teste teste",
-            "C) Teste teste teste",
-            "D) Teste teste teste",
-            "E) Teste teste teste"
-        ]
-    },
-    {
-        "pergunta": "Teste teste teste?",
-        "nivelDeDificuldade": 1,
-        "gabarito": "A",
-        "explicacao": "Teste",
-        "alternativas" :[
-            "A) Teste teste teste",
-            "B) Teste teste teste",
-            "C) Teste teste teste",
-            "D) Teste teste teste",
-            "E) Teste teste teste"
-        ]
-    },
-    {
-        "pergunta": "Teste teste teste?",
-        "nivelDeDificuldade": 1,
-        "gabarito": "A",
-        "explicacao": "Teste",
-        "alternativas" :[
-            "A) Teste teste teste",
-            "B) Teste teste teste",
-            "C) Teste teste teste",
-            "D) Teste teste teste",
-            "E) Teste teste teste"
-        ]
-    },
-    {
-        "pergunta": "Teste teste teste?",
-        "nivelDeDificuldade": 1,
-        "gabarito": "A",
-        "explicacao": "Teste",
-        "alternativas" :[
-            "A) Teste teste teste",
-            "B) Teste teste teste",
-            "C) Teste teste teste",
-            "D) Teste teste teste",
-            "E) Teste teste teste"
-        ]
-    },
-    {
-        "pergunta": "Teste teste teste?",
-        "nivelDeDificuldade": 1,
-        "gabarito": "A",
-        "explicacao": "Teste",
-        "alternativas" :[
-            "A) Teste teste teste",
-            "B) Teste teste teste",
-            "C) Teste teste teste",
-            "D) Teste teste teste",
-            "E) Teste teste teste"
-        ]
-    },
-    {
-        "pergunta": "Teste teste teste?",
-        "nivelDeDificuldade": 1,
-        "gabarito": "A",
-        "explicacao": "Teste",
-        "alternativas" :[
-            "A) Teste teste teste",
-            "B) Teste teste teste",
-            "C) Teste teste teste",
-            "D) Teste teste teste",
-            "E) Teste teste teste"
-        ]
-    },
-    {
-        "pergunta": "Teste teste teste?",
-        "nivelDeDificuldade": 1,
-        "gabarito": "A",
-        "explicacao": "Teste",
-        "alternativas" :[
-            "A) Teste teste teste",
-            "B) Teste teste teste",
-            "C) Teste teste teste",
-            "D) Teste teste teste",
-            "E) Teste teste teste"
-        ]
-    },
-    {
-        "pergunta": "Teste teste teste?",
-        "nivelDeDificuldade": 1,
-        "gabarito": "A",
-        "explicacao": "Teste",
-        "alternativas" :[
-            "A) Teste teste teste",
-            "B) Teste teste teste",
-            "C) Teste teste teste",
-            "D) Teste teste teste",
-            "E) Teste teste teste"
-        ]
-    },
-    {
-        "pergunta": "Teste teste teste?",
-        "nivelDeDificuldade": 1,
-        "gabarito": "A",
-        "explicacao": "Teste",
-        "alternativas" :[
-            "A) Teste teste teste",
-            "B) Teste teste teste",
-            "C) Teste teste teste",
-            "D) Teste teste teste",
-            "E) Teste teste teste"
-        ]
-    },
-    {
-        "pergunta": "Teste teste teste?",
-        "nivelDeDificuldade": 1,
-        "gabarito": "A",
-        "explicacao": "Teste",
-        "alternativas" :[
-            "A) Teste teste teste",
-            "B) Teste teste teste",
-            "C) Teste teste teste",
-            "D) Teste teste teste",
-            "E) Teste teste teste"
-        ]
-    },
-    {
-        "pergunta": "Teste teste teste?",
-        "nivelDeDificuldade": 2,
-        "gabarito": "A",
-        "explicacao": "Teste",
-        "alternativas" :[
-            "A) Teste teste teste",
-            "B) Teste teste teste",
-            "C) Teste teste teste",
-            "D) Teste teste teste",
-            "E) Teste teste teste"
-        ]
-    },
-    {
-        "pergunta": "Teste teste teste?",
-        "nivelDeDificuldade": 2,
-        "gabarito": "A",
-        "explicacao": "Teste",
-        "alternativas" :[
-            "A) Teste teste teste",
-            "B) Teste teste teste",
-            "C) Teste teste teste",
-            "D) Teste teste teste",
-            "E) Teste teste teste"
-        ]
-    },
-    {
-        "pergunta": "Teste teste teste?",
-        "nivelDeDificuldade": 1,
-        "gabarito": "A",
-        "explicacao": "Teste",
-        "alternativas" :[
-            "A) Teste teste teste",
-            "B) Teste teste teste",
-            "C) Teste teste teste",
-            "D) Teste teste teste",
-            "E) Teste teste teste"
-        ]
-    },
-    {
-        "pergunta": "Teste teste teste?",
-        "nivelDeDificuldade": 1,
-        "gabarito": "A",
-        "explicacao": "Teste",
-        "alternativas" :[
-            "A) Teste teste teste",
-            "B) Teste teste teste",
-            "C) Teste teste teste",
-            "D) Teste teste teste",
-            "E) Teste teste teste"
-        ]
-    },
-    {
-        "pergunta": "Teste teste teste?",
-        "nivelDeDificuldade": 1,
-        "gabarito": "A",
-        "explicacao": "Teste",
-        "alternativas" :[
-            "A) Teste teste teste",
-            "B) Teste teste teste",
-            "C) Teste teste teste",
-            "D) Teste teste teste",
-            "E) Teste teste teste"
-        ]
-    },
-    {
-        "pergunta": "Teste teste teste?",
-        "nivelDeDificuldade": 1,
-        "gabarito": "A",
-        "explicacao": "Teste",
-        "alternativas" :[
-            "A) Teste teste teste",
-            "B) Teste teste teste",
-            "C) Teste teste teste",
-            "D) Teste teste teste",
-            "E) Teste teste teste"
-        ]
-    },
-    {
-        "pergunta": "Teste teste teste?",
-        "nivelDeDificuldade": 1,
-        "gabarito": "A",
-        "explicacao": "Teste",
-        "alternativas" :[
-            "A) Teste teste teste",
-            "B) Teste teste teste",
-            "C) Teste teste teste",
-            "D) Teste teste teste",
-            "E) Teste teste teste"
-        ]
-    },
-    {
-        "pergunta": "Teste teste teste?",
-        "nivelDeDificuldade": 1,
-        "gabarito": "A",
-        "explicacao": "Teste",
-        "alternativas" :[
-            "A) Teste teste teste",
-            "B) Teste teste teste",
-            "C) Teste teste teste",
-            "D) Teste teste teste",
-            "E) Teste teste teste"
-        ]
-    },
-    {
-        "pergunta": "Teste teste teste?",
-        "nivelDeDificuldade": 1,
-        "gabarito": "A",
-        "explicacao": "Teste",
-        "alternativas" :[
-            "A) Teste teste teste",
-            "B) Teste teste teste",
-            "C) Teste teste teste",
-            "D) Teste teste teste",
-            "E) Teste teste teste"
-        ]
-    },
-    {
-        "pergunta": "Teste teste teste?",
-        "nivelDeDificuldade": 1,
-        "gabarito": "A",
-        "explicacao": "Teste",
-        "alternativas" :[
-            "A) Teste teste teste",
-            "B) Teste teste teste",
-            "C) Teste teste teste",
-            "D) Teste teste teste",
-            "E) Teste teste teste"
-        ]
-    },
-    {
-        "pergunta": "Teste teste teste?",
-        "nivelDeDificuldade": 1,
-        "gabarito": "A",
-        "explicacao": "Teste",
-        "alternativas" :[
-            "A) Teste teste teste",
-            "B) Teste teste teste",
-            "C) Teste teste teste",
-            "D) Teste teste teste",
-            "E) Teste teste teste"
-        ]
-    },
-    {
-        "pergunta": "Teste teste teste?",
-        "nivelDeDificuldade": 1,
-        "gabarito": "A",
-        "explicacao": "Teste",
-        "alternativas" :[
-            "A) Teste teste teste",
-            "B) Teste teste teste",
-            "C) Teste teste teste",
-            "D) Teste teste teste",
-            "E) Teste teste teste"
-        ]
-    },
-    {
-        "pergunta": "Teste teste teste?",
-        "nivelDeDificuldade": 1,
-        "gabarito": "A",
-        "explicacao": "Teste",
-        "alternativas" :[
-            "A) Teste teste teste",
-            "B) Teste teste teste",
-            "C) Teste teste teste",
-            "D) Teste teste teste",
-            "E) Teste teste teste"
-        ]
-    },
-    {
-        "pergunta": "Teste teste teste?",
-        "nivelDeDificuldade": 1,
-        "gabarito": "A",
-        "explicacao": "Teste",
-        "alternativas" :[
-            "A) Teste teste teste",
-            "B) Teste teste teste",
-            "C) Teste teste teste",
-            "D) Teste teste teste",
-            "E) Teste teste teste"
-        ]
-    },
-    {
-        "pergunta": "Teste teste teste?",
-        "nivelDeDificuldade": 1,
-        "gabarito": "A",
-        "explicacao": "Teste",
-        "alternativas" :[
-            "A) Teste teste teste",
-            "B) Teste teste teste",
-            "C) Teste teste teste",
-            "D) Teste teste teste",
-            "E) Teste teste teste"
-        ]
-    },
-    {
-        "pergunta": "Teste teste teste?",
-        "nivelDeDificuldade": 1,
-        "gabarito": "A",
-        "explicacao": "Teste",
-        "alternativas" :[
-            "A) Teste teste teste",
-            "B) Teste teste teste",
-            "C) Teste teste teste",
-            "D) Teste teste teste",
-            "E) Teste teste teste"
-        ]
-    },
-    {
-        "pergunta": "Teste teste teste?",
-        "nivelDeDificuldade": 1,
-        "gabarito": "A",
-        "explicacao": "Teste",
-        "alternativas" :[
-            "A) Teste teste teste",
-            "B) Teste teste teste",
-            "C) Teste teste teste",
-            "D) Teste teste teste",
-            "E) Teste teste teste"
-        ]
-    },
-    {
-        "pergunta": "Teste teste teste?",
-        "nivelDeDificuldade": 1,
-        "gabarito": "A",
-        "explicacao": "Teste",
-        "alternativas" :[
-            "A) Teste teste teste",
-            "B) Teste teste teste",
-            "C) Teste teste teste",
-            "D) Teste teste teste",
-            "E) Teste teste teste"
-        ]
-    },
-    {
-        "pergunta": "Teste teste teste?",
-        "nivelDeDificuldade": 1,
-        "gabarito": "A",
-        "explicacao": "Teste",
-        "alternativas" :[
-            "A) Teste teste teste",
-            "B) Teste teste teste",
-            "C) Teste teste teste",
-            "D) Teste teste teste",
-            "E) Teste teste teste"
-        ]
-    },
-    {
-        "pergunta": "Teste teste teste?",
-        "nivelDeDificuldade": 3,
-        "gabarito": "A",
-        "explicacao": "Teste",
-        "alternativas" :[
-            "A) Teste teste teste",
-            "B) Teste teste teste",
-            "C) Teste teste teste",
-            "D) Teste teste teste",
-            "E) Teste teste teste"
-        ]
-    },
-    {
-        "pergunta": "Teste teste teste?",
-        "nivelDeDificuldade": 1,
-        "gabarito": "A",
-        "explicacao": "Teste",
-        "alternativas" :[
-            "A) Teste teste teste",
-            "B) Teste teste teste",
-            "C) Teste teste teste",
-            "D) Teste teste teste",
-            "E) Teste teste teste"
-        ]
-    },
-    {
-        "pergunta": "Teste teste teste?",
-        "nivelDeDificuldade": 2,
-        "gabarito": "A",
-        "explicacao": "Teste",
-        "alternativas" :[
-            "A) Teste teste teste",
-            "B) Teste teste teste",
-            "C) Teste teste teste",
-            "D) Teste teste teste",
-            "E) Teste teste teste"
-        ]
-    },
-    {
-        "pergunta": "Teste teste teste?",
-        "nivelDeDificuldade": 2,
-        "gabarito": "A",
-        "explicacao": "Teste",
-        "alternativas" :[
-            "A) Teste teste teste",
-            "B) Teste teste teste",
-            "C) Teste teste teste",
-            "D) Teste teste teste",
-            "E) Teste teste teste"
-        ]
-    },
-    {
-        "pergunta": "Teste teste teste?",
-        "nivelDeDificuldade": 1,
-        "gabarito": "A",
-        "explicacao": "Teste",
-        "alternativas" :[
-            "A) Teste teste teste",
-            "B) Teste teste teste",
-            "C) Teste teste teste",
-            "D) Teste teste teste",
-            "E) Teste teste teste"
-        ]
-    },
-    {
-        "pergunta": "Teste teste teste?",
-        "nivelDeDificuldade": 3,
-        "gabarito": "A",
-        "explicacao": "Teste",
-        "alternativas" :[
-            "A) Teste teste teste",
-            "B) Teste teste teste",
-            "C) Teste teste teste",
-            "D) Teste teste teste",
-            "E) Teste teste teste"
-        ]
-    },
-    {
-        "pergunta": "Teste teste teste?",
-        "nivelDeDificuldade": 3,
-        "gabarito": "A",
-        "explicacao": "Teste",
-        "alternativas" :[
-            "A) Teste teste teste",
-            "B) Teste teste teste",
-            "C) Teste teste teste",
-            "D) Teste teste teste",
-            "E) Teste teste teste"
-        ]
-    },
-    {
-        "pergunta": "Teste teste teste?",
-        "nivelDeDificuldade": 1,
-        "gabarito": "A",
-        "explicacao": "Teste",
-        "alternativas" :[
-            "A) Teste teste teste",
-            "B) Teste teste teste",
-            "C) Teste teste teste",
-            "D) Teste teste teste",
-            "E) Teste teste teste"
-        ]
-    },
-    {
-        "pergunta": "Teste teste teste?",
-        "nivelDeDificuldade": 2,
-        "gabarito": "A",
-        "explicacao": "Teste",
-        "alternativas" :[
-            "A) Teste teste teste",
-            "B) Teste teste teste",
-            "C) Teste teste teste",
-            "D) Teste teste teste",
-            "E) Teste teste teste"
-        ]
-    },
-    {
-        "pergunta": "Teste teste teste?",
-        "nivelDeDificuldade": 2,
-        "gabarito": "A",
-        "explicacao": "Teste",
-        "alternativas" :[
-            "A) Teste teste teste",
-            "B) Teste teste teste",
-            "C) Teste teste teste",
-            "D) Teste teste teste",
-            "E) Teste teste teste"
-        ]
-    }
+  {
+    "pergunta": "Segundo a Anvisa, em sua cartilha sobre limpeza e desinfecção de superfícies, após terminarmos quaisquer tipos de limpeza é recomendado que lavemos as mãos. Por que devemos lavar as mãos? Porquê: ",
+    "nivelDeDificuldade": 1,
+    "gabarito": "A",
+    "explicacao": "É necessário lavar as mãos pode manter-nos saudáveis e prevenir a propagação das infeções respiratórias e diarreicas entre pessoas, já que os germes podem ser transmitidos de outras pessoas quando: Toca nos olhos, nariz e boca com as mãos sujas.",
+    "alternativas": [
+      "A) Lavar as mãos pode manter-nos saudáveis e prevenir a propagação das infeções respiratórias e diarreicas entre pessoas",
+      "b) Lavar as mãos ajudam a limpar as coisas com mais facilidade",
+      "c) É um hábito saudável, devemos lavar as mãos a cada 3h",
+      "d) Não precisamos lavar as mãos, elas se limpam sozinhas ",
+      "e) Devemos lavar as mãos só em situações de extrema sujeira"
+    ]
+  },
+  {
+    "pergunta": "É difícil acreditar, mas em nossa própria casa escondemos um arsenal de produtos perigosos que podem levar à morte, os produtos químicos. Como devemos guardar esses elementos?",
+    "nivelDeDificuldade": 1,
+    "gabarito": "D",
+    "explicacao": "É bom guardar todos os produtos no mesmo local e com suas tampas para preserva-los. É importante que fiquem longe do alcance das crianças para que elas não possam acabar mexendo com algo que não deveria",
+    "alternativas": [
+      "A) Em qualquer lugar",
+      "B) Em lugares de difícil acesso",
+      "C) Locais escondidos em que só uma pessoa saiba",
+      "D) Um armário com tranca para evitar que crianças toquem nesse material",
+      "E) Atrás da geladeira"
+    ]
+  },
+  {
+    "pergunta": "Sobre a higienização das mãos com gel alcoólico, é correto afirmar que: ",
+    "nivelDeDificuldade": 2,
+    "gabarito": "E",
+    "explicacao": "É usado normalmente na limpeza das mãos e ficou se tornou mais frequente na vida das pessoas após a pandemia. É usado para uma limpeza rápida de prevenção.",
+    "alternativas": [
+      "a) Não é necessário retirar os adornos (anéis, aliança, pulseiras, relógio etc.) tendo em vista que o gel penetra em orifícios e depois evapora instantaneamente.",
+      "b) O álcool gel pode ser utilizado em locais onde não houver disponibilidade de pias, ou em situações de emergência/urgência nas quais a lavagem das mãos esteja dificultada.",
+      "c) Deve-se retirar o excesso do gel após término do procedimento de higienização com papel-toalha.",
+      "d) É usado apenas na área da medicina, não pode ser usado em casa. ",
+      "e) É utilizado como um método eficaz para limpeza. Frequentemente usado para assepsia das mãos e higienização de superfícies e objetos"
+    ]
+  },
+  {
+    "pergunta": "Uma prática de limpeza comum na cozinha consiste na remoção da gordura de panelas e utensílios como garfos, facas, etc. Na ação desengordurante, geralmente se usa um detergente ou um sabão. Esse tipo de limpeza resulta da ação química desses produtos, dado que suas moléculas possuem",
+    "nivelDeDificuldade": 3,
+    "gabarito": "B",
+    "explicacao": "A parte apolar do sabão liga-se a gordura e a parte polar liga-se a água",
+    "alternativas": [
+      "a) uma parte com carga, que se liga à gordura, cujas moléculas são polares; e uma parte apolar, que se liga à água, cuja molécula é apolar.",
+      "b) uma parte apolar, que se liga à gordura, cujas moléculas são apolares; e uma parte com carga, que se liga à água, cuja molécula é polar.",
+      "c) uma parte apolar, que se liga à gordura, cujas moléculas são polares; e uma parte com carga, que se liga à água, cuja molécula é apolar.",
+      "d) uma parte com carga, que se liga à gordura, cujas moléculas são apolares; e uma parte apolar, que se liga à água, cuja molécula é polar.",
+      "e) uma parte apolar, que se liga à água, cuja molécula é polar."
+    ]
+  },
+  {
+    "pergunta": "(UFPR) A utilização de sabões para limpeza data de mais de 4000 anos. Os sabões são constituídos de moléculas anfifílicas, que contêm uma porção hidrofóbica e uma hidrofílica, e consequentemente atuam como tensoativos. Além da ação física do sabão no processo de remoção de sujeiras, há também a ação química, em que ocorre reação entre as moléculas anfifílicas e a sujeira, principalmente gorduras. Mesmo sem conhecimento científico, muitas pessoas constatam que a lavagem com sabão utilizando água quente é mais eficiente que com água fria. Com relação à ação dos sabões, considere as seguintes afirmativas: \n 1. A velocidade de remoção de sujeiras (à base de gorduras) de uma roupa é aumentada em altas temperaturas, pois nessa condição há maior frequência de choques entre as moléculas. \n 2. O processo de solubilização da sujeira envolve interação entre a parte hidrofóbica do tensoativo e a gordura, deixando a parte hidrofílica exposta na superfície que interage com o solvente. \n 3. A maior eficiência de lavagem em temperaturas mais altas implica que a reação entre o tensoativo e a sujeira é um processo endotérmico. \n 4. Em temperaturas superiores à temperatura de fusão de gorduras da sujeira, a velocidade de remoção é aumentada, em função da maior superfície de contato. \n Assinale a alternativa correta.",
+    : null,
+    "nivelDeDificuldade": 3,
+    "gabarito": "C",
+    "explicacao": "A terceira afirmativa não é necessariamente verdadeira. Um aumento da temperatura facilita, nesse caso, a remoção das sujeiras devido ao aumento das colisões efetivas entre as partículas.",
+    "alternativas": [
+      "A)Somente as afirmativas 1 e 2 são verdadeiras.",
+      "B)Somente as afirmativas 1 e 3 são verdadeiras.",
+      "C)Somente as afirmativas 1, 2 e 4 são verdadeiras.",
+      "D)Somente as afirmativas 2, 3 e 4 são verdadeiras.",
+      "E)As afirmativas 1, 2, 3 e 4 são verdadeiras."
+    ]
+  },
+  {
+    "pergunta": "Para ensinar seu filho a ajudar na limpeza de casa a mãe propôs que ele escolhesse um cômodo para lavar. O garoto escolheu lavar o banheiro, porém, não sabia qual produto seria o ideal para lavar os vidros. Qual das alternativas abaixo pode ser usada pelo filho?",
+    "nivelDeDificuldade": 1,
+    "gabarito": "C",
+    "explicacao": "Para uma limpeza eficaz o menino deve procurar escolher por um produto específico para atender o que ele deseja fazer.",
+    "alternativas": [
+      "A) Pano molhado",
+      "b) Pasta de dente e sal",
+      "c) Limpa vidros",
+      "d) Bicarbonato de sódio e vinagre ",
+      "e) Água e sal "
+    ]
+  },
+  {
+    "pergunta": "Assinale a alternativa que apresenta a frequência mínima para se lavar uma caixa d’água e o produto que deve ser utilizado para sua desinfecção após a lavagem:",
+    "nivelDeDificuldade": 2,
+    "gabarito": "B",
+    "explicacao": "Somente água sanitária na proporção deve ser utilizada. Atenção, nunca use detergentes, removedor, sabão ou outros produtos químicos. Outro ponto muito importante é manter a caixa bem tampada, para que não entrem insetos, sujeira ou mesmo animais pequenos. É importante manter uma limpeza periódica, porém, com um tempo de 6 meses para que não haja desperdício e não tenha pouco fluxo de água a ponto de precisar de uma limpeza.",
+    "alternativas": [
+      "A) 6 meses – ácido muriático",
+      "B) 6 meses – água sanitária",
+      "C) 12 meses – cloro ativo",
+      "D) 12 meses – cloro ativo",
+      "E) não precisa ser lavada"
+    ]
+  },
+  {
+    "pergunta": "O produto de limpeza conhecido popularmente como “ufenol” é um tipo de:",
+    "nivelDeDificuldade": 2,
+    "gabarito": "B",
+    "explicacao": "Com a popularização da substância fenol em muitos desinfetantes, sejam eles domésticos, hospitalares ou industriais, a marca Ufe, aproveitou do nome da substância e nomeou seu produto.",
+
+    "alternativas": [
+      "A) Desentupidor",
+      "B) Desinfetante",
+      "C) Polidor",
+      "D) Sabão líquido",
+      "E) Desodorante"
+    ]
+  },
+  {
+    "pergunta": "Alimentos como frutas, legumes e hortaliças devem ser higienizados, tendo em vista que esses podem ser consumidos crus. A correta higienização elimina os micróbios patogênicos e os parasitas. A respeito do tema, assinale a alternativa que não indica uma correta higienização.",
+    "nivelDeDificuldade": 3,
+    "gabarito": "E",
+    "explicacao": "Segundo a RDC 216 da Anvisa, os alimentos devem ser lavados e colocados de molho por 10minutos em água clorada",
+    "alternativas": [
+      "A) Enxaguar em água corrente vegetais folhosos folha a folha, e frutas e legumes um a um.",
+      "B) Selecionar, retirando as folhas, partes e unidades deterioradas.",
+      "C) Manter o alimento sob refrigeração até a hora de servir.",
+      "D) Colocar de molho o alimento por 10 minutos em água salitrizada, na diluição de 200 ppm (1 colher de sopa para 1 litro).",
+      "E) Colocar o alimento de molho por 10 minutos em água clorada, utilizando produto adequado para este fim (ler o rótulo da embalagem), na diluição de 200 ppm (1 colher de sopa para 1 litro)."
+    ]
+  },
+  {
+    "pergunta": "Quando começamos a fazer limpezas físicas é importante tomarmos cuidados para que não sejamos contaminados. O conjunto de procedimentos que visam a evitar a entrada de germes no organismo ou num ambiente é denominado: ",
+    "nivelDeDificuldade": 2,
+    "gabarito": "A",
+    "explicacao": "Assepsia é uma palavra gramaticalmente classificada como substantivo feminino. Significa método, ou o conjunto de métodos, utilizados para impedir a invasão de germes patogênicos no organismo, visando-se prevenir infecções. Podemos perceber que a assepsia é a limpeza que ocorre preventivamente.",
+    "alternativas": [
+      "a) Assepsia",
+      "b) Limpeza",
+      "c) Lavagem",
+      "d) Secagem ",
+      "e) Nenhuma das alternativas "
+    ]
+  },
+  {
+    "pergunta": "Em relação aos cuidados com as substâncias tóxicas dos materiais de limpeza, marque a alternativa INCORRETA:: ",
+    "nivelDeDificuldade": 2,
+    "gabarito": "A",
+    "explicacao": " Mesmo que seja importante reutilizarmos embalagens plásticas, não devemos reaproveitar os recipientes de substâncias tóxicas para guardar alimentos pois não podemos assegurar sua limpeza e o comportamento do alimento reservado .",
+    "alternativas": [
+      "a) Jamais guardar produtos venosos em garrafas de bebidas ou vasilhas de alimentos.",
+      "b) Abrir os recipientes com cuidado, para evitar que o produto entre em contato com os olhos e com a pele ",
+      "c) Reaproveitar os recipientes de substâncias tóxicas para guardar alimentos ",
+      "d) Guardar desinfetantes, sabão e detergente em armários trancados e devidamente rotulados.",
+      "e) Todas estão corretas "
+    ]
+  },
+  {
+    "pergunta": "Teste teste teste?",
+    "nivelDeDificuldade": 2,
+    "gabarito": "A",
+    "explicacao": "Teste",
+    "alternativas": [
+      "A) Teste teste teste",
+      "B) Teste teste teste",
+      "C) Teste teste teste",
+      "D) Teste teste teste",
+      "E) Teste teste teste"
+    ]
+  },
+  {
+    "pergunta": "Teste teste teste?",
+    "nivelDeDificuldade": 2,
+    "gabarito": "A",
+    "explicacao": "Teste",
+    "alternativas": [
+      "A) Teste teste teste",
+      "B) Teste teste teste",
+      "C) Teste teste teste",
+      "D) Teste teste teste",
+      "E) Teste teste teste"
+    ]
+  },
+  {
+    "pergunta": "Teste teste teste?",
+    "nivelDeDificuldade": 1,
+    "gabarito": "A",
+    "explicacao": "Teste",
+    "alternativas": [
+      "A) Teste teste teste",
+      "B) Teste teste teste",
+      "C) Teste teste teste",
+      "D) Teste teste teste",
+      "E) Teste teste teste"
+    ]
+  },
+  {
+    "pergunta": "Teste teste teste?",
+    "nivelDeDificuldade": 1,
+    "gabarito": "A",
+    "explicacao": "Teste",
+    "alternativas": [
+      "A) Teste teste teste",
+      "B) Teste teste teste",
+      "C) Teste teste teste",
+      "D) Teste teste teste",
+      "E) Teste teste teste"
+    ]
+  },
+  {
+    "pergunta": "Teste teste teste?",
+    "nivelDeDificuldade": 1,
+    "gabarito": "A",
+    "explicacao": "Teste",
+    "alternativas": [
+      "A) Teste teste teste",
+      "B) Teste teste teste",
+      "C) Teste teste teste",
+      "D) Teste teste teste",
+      "E) Teste teste teste"
+    ]
+  },
+  {
+    "pergunta": "Teste teste teste?",
+    "nivelDeDificuldade": 1,
+    "gabarito": "A",
+    "explicacao": "Teste",
+    "alternativas": [
+      "A) Teste teste teste",
+      "B) Teste teste teste",
+      "C) Teste teste teste",
+      "D) Teste teste teste",
+      "E) Teste teste teste"
+    ]
+  },
+  {
+    "pergunta": "Teste teste teste?",
+    "nivelDeDificuldade": 1,
+    "gabarito": "A",
+    "explicacao": "Teste",
+    "alternativas": [
+      "A) Teste teste teste",
+      "B) Teste teste teste",
+      "C) Teste teste teste",
+      "D) Teste teste teste",
+      "E) Teste teste teste"
+    ]
+  },
+  {
+    "pergunta": "Teste teste teste?",
+    "nivelDeDificuldade": 1,
+    "gabarito": "A",
+    "explicacao": "Teste",
+    "alternativas": [
+      "A) Teste teste teste",
+      "B) Teste teste teste",
+      "C) Teste teste teste",
+      "D) Teste teste teste",
+      "E) Teste teste teste"
+    ]
+  },
+  {
+    "pergunta": "Teste teste teste?",
+    "nivelDeDificuldade": 1,
+    "gabarito": "A",
+    "explicacao": "Teste",
+    "alternativas": [
+      "A) Teste teste teste",
+      "B) Teste teste teste",
+      "C) Teste teste teste",
+      "D) Teste teste teste",
+      "E) Teste teste teste"
+    ]
+  },
+  {
+    "pergunta": "Teste teste teste?",
+    "nivelDeDificuldade": 1,
+    "gabarito": "A",
+    "explicacao": "Teste",
+    "alternativas": [
+      "A) Teste teste teste",
+      "B) Teste teste teste",
+      "C) Teste teste teste",
+      "D) Teste teste teste",
+      "E) Teste teste teste"
+    ]
+  },
+  {
+    "pergunta": "Teste teste teste?",
+    "nivelDeDificuldade": 1,
+    "gabarito": "A",
+    "explicacao": "Teste",
+    "alternativas": [
+      "A) Teste teste teste",
+      "B) Teste teste teste",
+      "C) Teste teste teste",
+      "D) Teste teste teste",
+      "E) Teste teste teste"
+    ]
+  },
+  {
+    "pergunta": "Teste teste teste?",
+    "nivelDeDificuldade": 1,
+    "gabarito": "A",
+    "explicacao": "Teste",
+    "alternativas": [
+      "A) Teste teste teste",
+      "B) Teste teste teste",
+      "C) Teste teste teste",
+      "D) Teste teste teste",
+      "E) Teste teste teste"
+    ]
+  },
+  {
+    "pergunta": "Teste teste teste?",
+    "nivelDeDificuldade": 1,
+    "gabarito": "A",
+    "explicacao": "Teste",
+    "alternativas": [
+      "A) Teste teste teste",
+      "B) Teste teste teste",
+      "C) Teste teste teste",
+      "D) Teste teste teste",
+      "E) Teste teste teste"
+    ]
+  },
+  {
+    "pergunta": "Teste teste teste?",
+    "nivelDeDificuldade": 1,
+    "gabarito": "A",
+    "explicacao": "Teste",
+    "alternativas": [
+      "A) Teste teste teste",
+      "B) Teste teste teste",
+      "C) Teste teste teste",
+      "D) Teste teste teste",
+      "E) Teste teste teste"
+    ]
+  },
+  {
+    "pergunta": "Teste teste teste?",
+    "nivelDeDificuldade": 1,
+    "gabarito": "A",
+    "explicacao": "Teste",
+    "alternativas": [
+      "A) Teste teste teste",
+      "B) Teste teste teste",
+      "C) Teste teste teste",
+      "D) Teste teste teste",
+      "E) Teste teste teste"
+    ]
+  },
+  {
+    "pergunta": "Teste teste teste?",
+    "nivelDeDificuldade": 1,
+    "gabarito": "A",
+    "explicacao": "Teste",
+    "alternativas": [
+      "A) Teste teste teste",
+      "B) Teste teste teste",
+      "C) Teste teste teste",
+      "D) Teste teste teste",
+      "E) Teste teste teste"
+    ]
+  },
+  {
+    "pergunta": "Teste teste teste?",
+    "nivelDeDificuldade": 1,
+    "gabarito": "A",
+    "explicacao": "Teste",
+    "alternativas": [
+      "A) Teste teste teste",
+      "B) Teste teste teste",
+      "C) Teste teste teste",
+      "D) Teste teste teste",
+      "E) Teste teste teste"
+    ]
+  },
+  {
+    "pergunta": "Teste teste teste?",
+    "nivelDeDificuldade": 1,
+    "gabarito": "A",
+    "explicacao": "Teste",
+    "alternativas": [
+      "A) Teste teste teste",
+      "B) Teste teste teste",
+      "C) Teste teste teste",
+      "D) Teste teste teste",
+      "E) Teste teste teste"
+    ]
+  },
+  {
+    "pergunta": "Teste teste teste?",
+    "nivelDeDificuldade": 1,
+    "gabarito": "A",
+    "explicacao": "Teste",
+    "alternativas": [
+      "A) Teste teste teste",
+      "B) Teste teste teste",
+      "C) Teste teste teste",
+      "D) Teste teste teste",
+      "E) Teste teste teste"
+    ]
+  },
+  {
+    "pergunta": "Teste teste teste?",
+    "nivelDeDificuldade": 3,
+    "gabarito": "A",
+    "explicacao": "Teste",
+    "alternativas": [
+      "A) Teste teste teste",
+      "B) Teste teste teste",
+      "C) Teste teste teste",
+      "D) Teste teste teste",
+      "E) Teste teste teste"
+    ]
+  },
+  {
+    "pergunta": "Teste teste teste?",
+    "nivelDeDificuldade": 1,
+    "gabarito": "A",
+    "explicacao": "Teste",
+    "alternativas": [
+      "A) Teste teste teste",
+      "B) Teste teste teste",
+      "C) Teste teste teste",
+      "D) Teste teste teste",
+      "E) Teste teste teste"
+    ]
+  },
+  {
+    "pergunta": "Teste teste teste?",
+    "nivelDeDificuldade": 2,
+    "gabarito": "A",
+    "explicacao": "Teste",
+    "alternativas": [
+      "A) Teste teste teste",
+      "B) Teste teste teste",
+      "C) Teste teste teste",
+      "D) Teste teste teste",
+      "E) Teste teste teste"
+    ]
+  },
+  {
+    "pergunta": "Teste teste teste?",
+    "nivelDeDificuldade": 2,
+    "gabarito": "A",
+    "explicacao": "Teste",
+    "alternativas": [
+      "A) Teste teste teste",
+      "B) Teste teste teste",
+      "C) Teste teste teste",
+      "D) Teste teste teste",
+      "E) Teste teste teste"
+    ]
+  },
+  {
+    "pergunta": "Teste teste teste?",
+    "nivelDeDificuldade": 1,
+    "gabarito": "A",
+    "explicacao": "Teste",
+    "alternativas": [
+      "A) Teste teste teste",
+      "B) Teste teste teste",
+      "C) Teste teste teste",
+      "D) Teste teste teste",
+      "E) Teste teste teste"
+    ]
+  },
+  {
+    "pergunta": "Teste teste teste?",
+    "nivelDeDificuldade": 3,
+    "gabarito": "A",
+    "explicacao": "Teste",
+    "alternativas": [
+      "A) Teste teste teste",
+      "B) Teste teste teste",
+      "C) Teste teste teste",
+      "D) Teste teste teste",
+      "E) Teste teste teste"
+    ]
+  },
+  {
+    "pergunta": "Teste teste teste?",
+    "nivelDeDificuldade": 3,
+    "gabarito": "A",
+    "explicacao": "Teste",
+    "alternativas": [
+      "A) Teste teste teste",
+      "B) Teste teste teste",
+      "C) Teste teste teste",
+      "D) Teste teste teste",
+      "E) Teste teste teste"
+    ]
+  },
+  {
+    "pergunta": "Teste teste teste?",
+    "nivelDeDificuldade": 1,
+    "gabarito": "A",
+    "explicacao": "Teste",
+    "alternativas": [
+      "A) Teste teste teste",
+      "B) Teste teste teste",
+      "C) Teste teste teste",
+      "D) Teste teste teste",
+      "E) Teste teste teste"
+    ]
+  },
+  {
+    "pergunta": "Teste teste teste?",
+    "nivelDeDificuldade": 2,
+    "gabarito": "A",
+    "explicacao": "Teste",
+    "alternativas": [
+      "A) Teste teste teste",
+      "B) Teste teste teste",
+      "C) Teste teste teste",
+      "D) Teste teste teste",
+      "E) Teste teste teste"
+    ]
+  },
+  {
+    "pergunta": "Teste teste teste?",
+    "nivelDeDificuldade": 2,
+    "gabarito": "A",
+    "explicacao": "Teste",
+    "alternativas": [
+      "A) Teste teste teste",
+      "B) Teste teste teste",
+      "C) Teste teste teste",
+      "D) Teste teste teste",
+      "E) Teste teste teste"
+    ]
+  }
 ]
